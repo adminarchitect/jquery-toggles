@@ -1,5 +1,5 @@
 {
-  "name": "jquery-toggles",
+  "name": "@adminarchitect/jquery-toggles",
   "version": "4.0.0",
   "description": "Toggles is a lightweight jQuery plugin that creates easily-styleable toggle buttons.",
   "main": "toggles.min.js",
